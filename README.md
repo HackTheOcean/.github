@@ -1,2 +1,0 @@
-# .github
-Guia de estilos
