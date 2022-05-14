@@ -8,4 +8,5 @@ Equipo en este README.md agregaremos guias de estilo para la forma en la que tra
 4. No hacer push directamente a la rama main del proyecto, tratemoos de hacer un PullRequest para que alguien mas valide lo que estamos haciendo (no es obligatorio pero vamos a intentarlo, cualquier miembro del equipo puede revisar y aceptar el PR).
 5. Actualizacion de las actividades en la seccion de Projects.
 6. Usaremos esLint para que todos tengamos los mismos estilos. 
+7. Si tienes alguna duda puedes abrir un Issue nuevo para apoyarnos entre todos.
 
