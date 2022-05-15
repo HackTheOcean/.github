@@ -10,3 +10,10 @@ Equipo en este README.md agregaremos guias de estilo para la forma en la que tra
 6. Usaremos esLint para que todos tengamos los mismos estilos. 
 7. Si tienes alguna duda puedes abrir un Issue nuevo para apoyarnos entre todos.
 
+
+## Para hacer el PR 
+- clona el repo y trabaja en una rama
+- cuando estes listo para subir tus cambios haz un push al proyecto y se creara una rama con tus cambios (procura que el nombre de la rama no se repita)
+- una vez que tus cambios esten arriba se habilitara realizar un PR para poder hacer un merger de tus cambios con la rama main
+- cuando hagas tu PR alguien mas del equipo tendra que revisar los cambios que propones para poder aprobar
+
